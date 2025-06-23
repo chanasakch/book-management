@@ -1,0 +1,288 @@
+2025-06-20 19:31:28,617 - INFO - Registering user: testuser
+2025-06-20 19:32:05,876 - INFO - User testuser attempting to log in.
+2025-06-20 19:32:05,878 - ERROR - Invalid username or password for testuser
+2025-06-20 19:55:25,632 - INFO - Registering user: testuser
+2025-06-20 19:55:42,090 - INFO - User testuser attempting to log in.
+2025-06-20 19:55:42,092 - ERROR - Invalid username or password for testuser
+2025-06-20 19:56:50,858 - INFO - Registering user: testuser
+2025-06-20 19:56:55,622 - INFO - User testuser attempting to log in.
+2025-06-20 19:56:55,626 - ERROR - Invalid username or password for testuser
+2025-06-20 20:39:43,777 - INFO - Registering user: tokyobam
+2025-06-20 20:42:46,534 - INFO - Registering user: tokyobam
+2025-06-20 20:42:46,713 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-20 20:42:47,119 - INFO - User tokyobam registered successfully
+2025-06-20 20:43:05,073 - INFO - Fetching books with skip=0, limit=5
+2025-06-20 21:26:24,874 - INFO - Fetching books with skip=0, limit=5
+2025-06-20 21:31:10,081 - INFO - Fetching books with skip=0, limit=5
+2025-06-20 21:31:12,773 - INFO - Fetching books with skip=5, limit=5
+2025-06-20 21:31:13,588 - INFO - Fetching books with skip=0, limit=5
+2025-06-20 21:31:14,195 - INFO - Fetching books with skip=5, limit=5
+2025-06-20 21:31:14,748 - INFO - Fetching books with skip=0, limit=5
+2025-06-20 21:32:31,889 - INFO - Fetching books with skip=0, limit=5
+2025-06-20 21:32:37,561 - INFO - Fetching books with skip=0, limit=5
+2025-06-20 21:33:12,535 - INFO - Fetching books with skip=0, limit=5
+2025-06-20 23:59:10,797 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:01:46,763 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:03:14,899 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:03:22,383 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:03:28,355 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:05:24,403 - INFO - Registering user: tokyo
+2025-06-21 00:05:25,008 - INFO - User tokyo registered successfully
+2025-06-21 00:05:29,146 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:05:32,610 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:05:36,556 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:05:45,851 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:13:09,649 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:13:19,300 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:13:24,307 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:13:28,310 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:14:00,623 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:14:02,312 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:14:05,372 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:14:06,318 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:14:09,343 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:29:57,555 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 00:54:02,583 - INFO - Registering user: bambam
+2025-06-21 00:54:02,999 - INFO - User bambam registered successfully
+2025-06-21 00:57:02,472 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:03:44,949 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-21 01:04:01,149 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:11:52,310 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:13:57,840 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:27:06,139 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:27:12,157 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:27:13,376 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:27:34,981 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:27:36,952 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:27:39,951 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:27:59,346 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:28:18,329 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:28:22,479 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:29:07,813 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:29:13,405 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:29:31,258 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:31:11,918 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:31:43,771 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:31:54,415 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:45:12,692 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 01:57:53,491 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:01:21,256 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:02:29,579 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:03:11,509 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:07:34,815 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:11:42,184 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:12:31,578 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:18:37,618 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:18:46,197 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:30:34,502 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:30:35,296 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:30:36,161 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:30:36,655 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:30:37,271 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:30:39,099 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:30:46,986 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:30:48,970 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:30:49,826 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:30:52,956 - INFO - Deleting book with ID=8
+2025-06-21 02:30:53,030 - INFO - Book with ID 8 deleted successfully
+2025-06-21 02:30:55,833 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:30:56,922 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:30:57,745 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:30:59,663 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:35:11,153 - INFO - Updating book with ID=9
+2025-06-21 02:35:11,163 - INFO - Book with ID 9 updated successfully
+2025-06-21 02:35:21,406 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:35:23,549 - INFO - Deleting book with ID=5
+2025-06-21 02:35:23,568 - INFO - Book with ID 5 deleted successfully
+2025-06-21 02:37:52,545 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:38:11,005 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:38:13,326 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:39:42,704 - INFO - Creating new book: ¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò
+2025-06-21 02:39:42,731 - INFO - Book '¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò¿Ë¡¿Ò¡¹¿Ò' created successfully
+2025-06-21 02:39:42,746 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:39:44,072 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:39:53,232 - INFO - Updating book with ID=10
+2025-06-21 02:39:53,262 - INFO - Book with ID 10 updated successfully
+2025-06-21 02:39:58,465 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:39:59,730 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:40:03,590 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 02:40:08,170 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:40:17,950 - INFO - Creating new book: da
+2025-06-21 02:40:17,959 - INFO - Book 'da' created successfully
+2025-06-21 02:40:17,970 - INFO - Fetching books with skip=5, limit=5
+2025-06-21 02:48:36,186 - INFO - Deleting book with ID=10
+2025-06-21 02:48:36,196 - INFO - Book with ID 10 deleted successfully
+2025-06-21 02:48:40,028 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:08:12,678 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:08:23,296 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-21 03:08:23,865 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:13:22,106 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:13:31,304 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:14:42,055 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:15:38,328 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:15:44,332 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:15:59,317 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:16:42,677 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:17:35,094 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:17:45,698 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:22:45,733 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 03:23:00,278 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 04:01:49,284 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 07:13:19,790 - INFO - Fetching books with skip=0, limit=5
+2025-06-21 11:15:55,632 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 11:18:11,696 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 12:53:33,252 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 12:55:06,381 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 14:08:58,511 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 21:32:57,635 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 21:33:50,006 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-22 21:33:50,773 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 21:41:42,248 - INFO - Fetching books with skip=0, limit=10
+2025-06-22 21:42:19,320 - INFO - Fetching book with ID=1
+2025-06-22 21:42:19,333 - ERROR - Book with ID 1 not found
+2025-06-22 21:42:24,364 - INFO - Fetching book with ID=2
+2025-06-22 22:28:38,073 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 22:28:52,697 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 22:29:11,226 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 22:29:43,815 - INFO - Registering user: chanasak
+2025-06-22 22:29:43,890 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-22 22:29:44,584 - INFO - User chanasak registered successfully
+2025-06-22 22:29:50,990 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 22:30:08,907 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 22:39:47,438 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 22:40:09,293 - INFO - Registering user: chanasak
+2025-06-22 22:40:32,665 - INFO - Registering user: aaaaa
+2025-06-22 22:42:45,692 - INFO - Registering user: haha
+2025-06-22 22:42:45,732 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-22 22:42:46,347 - INFO - User haha registered successfully
+2025-06-22 22:42:50,957 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 23:17:17,559 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 23:21:22,073 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 23:25:20,628 - INFO - Registering user: aaa
+2025-06-22 23:25:43,331 - INFO - Registering user: aaa
+2025-06-22 23:25:44,027 - INFO - Registering user: aaa
+2025-06-22 23:25:44,479 - INFO - Registering user: aaa
+2025-06-22 23:26:13,188 - INFO - Registering user: aaa
+2025-06-22 23:26:13,204 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-22 23:26:13,641 - INFO - User aaa registered successfully
+2025-06-22 23:26:20,225 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 23:33:12,927 - INFO - Fetching books with skip=0, limit=5
+2025-06-22 23:39:38,249 - INFO - Registering user: kkk
+2025-06-23 00:03:52,593 - INFO - Registering user: kkk
+2025-06-23 00:03:52,641 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-23 00:03:53,284 - INFO - User kkk registered successfully
+2025-06-23 00:03:57,372 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 00:04:33,196 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 04:04:02,806 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 09:51:20,042 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:29:25,905 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:29:26,573 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:29:43,040 - INFO - Registering user: aaa
+2025-06-23 12:29:43,490 - INFO - User aaa registered successfully
+2025-06-23 12:29:46,911 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:31:43,055 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:31:57,294 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:32:07,835 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:32:16,582 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:35:10,821 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 12:37:27,515 - INFO - Registering user: tokyo
+2025-06-23 12:37:28,169 - INFO - User tokyo registered successfully
+2025-06-23 13:09:52,574 - INFO - Registering user: tokyo
+2025-06-23 13:09:52,607 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-23 13:09:53,251 - INFO - User tokyo registered successfully
+2025-06-23 13:09:57,526 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 13:10:17,561 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 13:20:51,679 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 13:21:00,741 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 13:21:11,347 - INFO - Registering user: bambam
+2025-06-23 13:21:11,400 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-23 13:21:12,051 - INFO - User bambam registered successfully
+2025-06-23 13:21:16,579 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 13:21:26,619 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 13:39:37,594 - INFO - Registering user: bambam
+2025-06-23 13:39:37,656 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-23 13:39:38,307 - INFO - User bambam registered successfully
+2025-06-23 13:39:43,627 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 13:43:34,137 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 15:45:50,615 - INFO - Registering user: bambam
+2025-06-23 15:46:31,206 - INFO - Registering user: bambam
+2025-06-23 15:46:31,247 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\chanasak_c\Desktop\tokyo\rudy\book-manager-backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-06-23 15:46:31,741 - INFO - User bambam registered successfully
+2025-06-23 15:46:46,255 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 15:54:33,681 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 15:59:18,358 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:01:44,944 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:01:52,799 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:02:12,571 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:02:16,875 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:02:19,407 - INFO - Fetching books with skip=0, limit=10
+2025-06-23 16:02:19,429 - INFO - Fetching books with skip=0, limit=10
+2025-06-23 16:02:20,716 - INFO - Fetching books with skip=0, limit=20
+2025-06-23 16:02:20,724 - INFO - Fetching books with skip=0, limit=20
+2025-06-23 16:02:21,697 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:02:21,704 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:07:44,831 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:08:00,948 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:08:05,067 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:08:17,462 - INFO - Fetching books with skip=0, limit=5
+2025-06-23 16:08:31,698 - INFO - Fetching books with skip=0, limit=5
